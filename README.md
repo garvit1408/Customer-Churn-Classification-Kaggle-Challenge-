@@ -78,7 +78,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/kaggle-churn-prediction.git
+git clone https://github.com/garvit1408/kaggle-churn-prediction.git
 cd kaggle-churn-prediction
 Download the dataset from Kaggle and place train.csv and test.csv in the project directory.
 
